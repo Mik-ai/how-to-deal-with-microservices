@@ -1,4 +1,4 @@
-# service what allow to control orm models from one place.
+# service that allow to control orm models from one place.
 
 How to use it?
 
